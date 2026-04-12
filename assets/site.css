@@ -251,6 +251,11 @@ a {
   padding: 24px;
 }
 
+.feature-list {
+  display: grid;
+  gap: 16px;
+}
+
 .date-block {
   display: flex;
   flex-direction: column;
