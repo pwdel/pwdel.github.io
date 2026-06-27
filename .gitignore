@@ -1,1 +1,5 @@
 .DS_Store
+.server.log
+.server.pid
+.site-server.log
+.site-server.pid
