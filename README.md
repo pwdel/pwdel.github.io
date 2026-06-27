@@ -7,10 +7,16 @@ Root GitHub Pages site for the `pwdel` account.
 From this directory:
 
 ```sh
-python3 -m http.server 8000
+./server start
 ```
 
-Then open `http://localhost:8000/`.
+Then open `http://127.0.0.1:8003/`.
+
+Stop it with:
+
+```sh
+./server stop
+```
 
 ## Publish with GitHub CLI
 
